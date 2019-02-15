@@ -8,16 +8,28 @@ Description des fichiers du git :
 
 # Attribute information:
 ## Les informations suivantes sont toutes des floats excepté la note
+
 fixed acidity
+
 volatile acidity
+
 citric acid
+
 residual sugar
+
 chlorides
+
 free sulfur dioxide
+
 total sulfur dioxide
+
 density
+
 pH
+
 sulphates
+
 alcohol
+
 quality (score between 0 and 10)
 
